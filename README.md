@@ -184,7 +184,6 @@ This project is a comprehensive 2-DOF (two degrees of freedom) planar elbow mani
 | **Power Electronics** | LTspice (circuit simulation) |
 | **Control Systems** | MATLAB/Simulink (modeling, simulation) |
 | **Analysis** | MATLAB (kinematics, dynamics, optimization) |
-| **Documentation** | LaTeX, Markdown |
 
 ---
 
@@ -278,3 +277,4 @@ open('combined_system.slx')
 
 
 </div>
+
