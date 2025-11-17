@@ -1,7 +1,7 @@
 # 2-DOF Planar Elbow Manipulator: Integrated Mechatronic System Design
 
 ![Manipulator Assembly](mechanical_design/mechanics_media/mechanical_design.jpg)
-
+buck_boost_with_Motor.png
 ## 📋 Project Overview
 
 This project is a comprehensive 2-DOF (two degrees of freedom) planar elbow manipulator developed as part of the **Sabancı University ME408 Mechatronic System Design** course. The project encompasses complete mechatronic system integration, from mechanical design to electronic hardware, and from power electronics to control systems.
@@ -83,6 +83,7 @@ This project is a comprehensive 2-DOF (two degrees of freedom) planar elbow mani
 ---
 
 ### 2. Hardware Design (Power Electronics)
+![Buck-Boost Converter](hardware_design/hardware_media/buck_boost_with_Motor.png)
 
 **Buck-Boost Converter Specifications:**
 - **Input Voltage (Vin):** 12V DC
@@ -112,7 +113,7 @@ This project is a comprehensive 2-DOF (two degrees of freedom) planar elbow mani
 ---
 
 ### 3. Control Design
-
+![Combined Control System Design](control_design/control_media/combined_control_system.png)
 **Control Architecture:**
 - **Inner Loop:** PI current controller (fast dynamics)
   - Kp = 0.9
@@ -273,6 +274,7 @@ open('combined_system.slx')
 
 - **Course Instructor:** Mehmet Mert Gülhan
 - **Course:** ME 408 - Mechatronic System Design | Sabancı University  
+
 
 
 </div>
